@@ -100,6 +100,5 @@ graph LR
 - 💬 Ask me about: **Career growth in AI** | **ML system design** | **AI architecture patterns**
 - 📫 Reach me: abhichavda97@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhi-chavda)
 
-> "Real work from real humans will always prevail!" - Abhishek Chavda
-```
 
+> "Real work from real humans will always prevail!" - Abhishek Chavda

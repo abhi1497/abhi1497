@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Abhishek Chavda
 **Senior AI/ML Engineer & Technical Lead** | Building Intelligent Systems at Scale  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([your-linkedin-url](https://www.linkedin.com/in/abhi-chavda)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:abhichavda97@gmail.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)-->
 
 ```python
 class AIEngineer:

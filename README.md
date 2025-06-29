@@ -75,6 +75,6 @@ flowchart LR
 - 🔭 **Exploring:** Quantum ML • Neuromorphic Computing • Federated Learning
 - 💬 **Ask me about:** ML system design patterns • Career growth in AI • Productionizing LLMs
 - 📫 **Reach out:** [Email](mailto:abhichavda97@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhi-chavda)
-- 🌱 **Learning:** Rust • Ray • Distributed Training Optimization
+- 🌱 **Learning:** Rust • Distributed Training Optimization
 
 > "Human ingenuity will always be the ultimate intelligence amplifier" - AC

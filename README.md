@@ -12,93 +12,69 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 I'm Abhishek Chavda
-**Senior AI/ML Engineer & Technical Lead** | Building Intelligent Systems at Scale  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abhi-chavda)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:abhichavda97@gmail.com)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)-->
+# 👋 Hi there! I'm Abhishek Chavda
+**Senior AI/ML Engineer & Technical Lead** | Building Enterprise-Grade Intelligent Systems  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/abhi-chavda)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail)](mailto:abhichavda97@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome)](your-portfolio-url)
 
 ```python
 class AIEngineer:
     def __init__(self):
-        self.expertise = "Machine Learning | System Design | LLM Architecture"
-        self.industries = ["Healthcare", "Finance", "Manufacturing", "Automotive"]
-        self.tech_stack = {
-            "ML Frameworks": ["TensorFlow", "PyTorch", "HuggingFace"],
-            "Cloud": ["AWS", "Azure"],
-            "MLOps": ["Kubernetes", "TFX", "Kubeflow"],
-            "AI Agents": ["CrewAI", "LangChain"],
-            "Databases": ["PostgreSQL", "Neo4j", "Chroma"]
+        self.expertise = "Data Science | Machine Learning | Deep Learning | MLOps"
+        self.domains = ["Healthcare", "Finance", "Edge AI"]
+        self.stack = {
+            "ML Frameworks": ["PyTorch", "TensorFlow", "HuggingFace"],
+            "Cloud": ["AWS (SageMaker, Bedrock)", "Azure ML"],
+            "MLOps": ["Kubeflow", "TFX", "MLflow"],
+            "AI Orchestration": ["LangChain", "CrewAI", "AutoGen"],
+            "Infra": ["Kubernetes", "Docker", "Terraform"]
         }
 ```
-<!--
-## 🏆 Featured Projects
-[Project Name] - LLM Orchestration Framework
-Tech: CrewAI • LangChain • VectorDBs • FastAPI
-▶️ Enterprise-grade framework for building autonomous AI agent networks
-✅ Production deployment serving 1M+ daily inferences
-⭐ 850+ GitHub stars | 🍴 230+ forks
 
-[Project Name] - Medical Imaging Pipeline
-Tech: PyTorch • MONAI • DICOM • TensorRT
-🩺 3D segmentation model achieving 98.5% Dice score
-⚡ Optimized inference latency <50ms on edge devices
+## 🔧 Technical Leadership
 
-[Open-Source Library] - NLP Toolkit
-Tech: Transformers • spaCy • ONNX
-📦 15k+ monthly downloads on PyPI
-🤝 120+ community contributors
--->
-## 🔨 Technical Leadership
 ```mermaid
-graph TD
-    A[Business Requirements] --> B[System Architecture]
+flowchart LR
+    A[Business Objectives] --> B[System Architecture]
     B --> C[Model Development]
     C --> D[MLOps Pipeline]
     D --> E[Monitoring & Optimization]
 ```
-- Led teams delivering 12+ production ML systems
-- Reduced model deployment cycles by 40% through CI/CD automation
-- Architected solutions handling 50+ GB datasets
 
-## 🔧 Core Expertise
-AI/ML Architecture
-```mermaid
-graph LR
-    A[LLM Fine-Tuning] --> B[Deployment Strategies]
-    B --> C[Vector Databases]
-    C --> D[Optimized Inference]
-    D --> E[Continuous Monitoring]
-```
+- Led delivery of **12+ production ML systems** across healthcare and finance
+- Reduced deployment cycles by **40%** through CI/CD automation
+- Architected solutions processing **50GB+ datasets** daily
+- Mentored 8 junior engineers in ML best practices
 
+## 🛠️ Core Technologies
 
-## 🛠️ Tech Stack
 **AI Development**  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![LLMs](https://img.shields.io/badge/LLMs-FineTuning%20|%20RAG%20|%20Agents-blueviolet)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 
-**Productionization**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
+**MLOps & Cloud**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![TFX](https://img.shields.io/badge/-TFX-FF6F00)
 
-**Data Engineering**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark)
+**Data Systems**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark)
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi1497&show_icons=true&theme=radical)](https://github.com/abhi1497)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1497&layout=compact&theme=radical)](https://github.com/abhi1497)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi1497&show_icons=true&count_private=true&theme=dark)](https://github.com/abhi1497)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1497&layout=compact&theme=dark&hide=html,css)](https://github.com/abhi1497)
 
-## 📫 Let's Collaborate!
-- 🔭 Currently exploring: **DeepLearning, Quantum Machine Learning**
-- 💬 Ask me about: **Career growth in AI** | **ML system design** | **AI architecture patterns**
-- 📫 Reach me: abhichavda97@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhi-chavda)
+## 💬 Let's Connect
 
+- 🔭 **Exploring:** Quantum ML • Neuromorphic Computing • Federated Learning
+- 💬 **Ask me about:** ML system design patterns • Career growth in AI • Productionizing LLMs
+- 📫 **Reach out:** [Email](mailto:abhichavda97@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhi-chavda)
+- 🌱 **Learning:** Rust • Ray • Distributed Training Optimization
 
-> "Real work from real humans will always prevail!" - Abhishek Chavda
+> "Human ingenuity will always be the ultimate intelligence amplifier" - AC
